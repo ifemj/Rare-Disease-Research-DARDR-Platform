@@ -14,6 +14,11 @@ epoch = 2.5
 path = 'contracts/patient-incentives.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.research-proposals]
+path = 'contracts/research-proposals.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
